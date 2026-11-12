@@ -1,0 +1,1 @@
+print("panch is mama")
